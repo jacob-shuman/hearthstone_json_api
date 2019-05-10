@@ -1,7 +1,7 @@
 name: hearthstone_json_api
 description: A starting point for Dart libraries or applications.
 version: 0.0.1
-# homepage: https://www.example.com
+homepage: https://github.com/jacob-shuman/hearthstone_json_api
 author: Jacob Shuman <jacob.shuman7@gmail.com>
 
 environment:
