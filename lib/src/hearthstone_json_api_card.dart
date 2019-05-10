@@ -1,5 +1,3 @@
-import "dart:convert";
-
 class HearthstoneJsonApiCard {
   final String id;
   final int dbfId;
